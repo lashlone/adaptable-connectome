@@ -1,2 +1,2 @@
 # adaptable-connectome
-Projet personnel, baccalauréat en bioingénierie. Développement d'un modèle de connectome adaptatif à l'aide d'un algorithme génétique.
+Projet personnel, 3ième année du baccalauréat en bioingénierie, École Polytechnique de Montréal. Développement d'un modèle de connectome adaptatif à l'aide d'un algorithme génétique.
